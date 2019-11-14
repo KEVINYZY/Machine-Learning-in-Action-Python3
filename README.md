@@ -1,4 +1,4 @@
-# Machine-Learning-in-Action-Python3 
+zd# Machine-Learning-in-Action-Python3 
 <br>
 
 这个月开始练习《机器学习实战》，原书比较久远了，且代码和练习都是基于Python2，我个人是升级到了Python3，因此使用最新的版本来写这些习题。具体2和3其实在基础语法上并没有太多差别，一些高级特性比如装饰器工厂，协程，IO等Python3的新用法，一般机器学习也用不上，因为追求性能的话都会用C/C++等语言去实现，Python只是小规模的测试用。<br>
